@@ -23,6 +23,7 @@ Gemini：
 
 - Adicionado conteúdo gerado via IA.
 - Selecionado formato social - retrato.
+- Instrução: separe e destaque cada exemplo, agrupando entrada e saída.
 
 ## iLovePDF
 
